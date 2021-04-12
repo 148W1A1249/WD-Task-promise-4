@@ -70,8 +70,5 @@ function createCard(params){
     data_container.appendChild(card);
 }
 
-function getRecipe(params){
-    var recipeData = params;
-    console.log(recipeData);
-}
+
 
